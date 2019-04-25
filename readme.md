@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Blog system BY Laravel
 
-Blog site is have features like login,logout,registration,post,comment and ratting
+Blog site has features like login,logout,registration,post,comment and ratting
 
 
 ## Contributing
