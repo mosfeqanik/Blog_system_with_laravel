@@ -28,7 +28,7 @@ Blog site has features like login,logout,registration,post,comment and ratting
 
 ## Contributing
 
-Thank you to allah.for blessing me day by day.thanks to Coders Trust bangladesh. thanks to Laravel framework laravel documentation 
+Thank you to All.for blessing me day by day.thanks to Coders Trust bangladesh. thanks to Laravel framework laravel documentation 
 
 
 ## License
